@@ -1,4 +1,4 @@
-# serverless-minions-harsha-98
+# serverless function using AWS
 
 ### A public https post api : https://xgsta4klzj.execute-api.us-east-2.amazonaws.com/prod/summon
 
